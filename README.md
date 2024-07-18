@@ -1,1 +1,1 @@
-# smoll-machine-learning-poject
+# Simple classification model
